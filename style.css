@@ -1,0 +1,29 @@
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 35px;
+}
+#v {
+    color:red;
+}
+body {
+    background-color:#55E6C1;
+}
+h1 {
+    font-weight: bold;
+    color:darkblue;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif
+}
+h2 {
+    font-weight: bold;
+}
+button {
+    width: 100px;
+    height: 40px;
+    font-weight:bold;
+}
+#camera {
+    width: 360px;
+    height: 250px;
+    border:1px solid blue;
+}
